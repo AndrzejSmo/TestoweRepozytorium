@@ -1,0 +1,6 @@
+D:\andsmo\moja solucja\projekt 2\bin\Debug\projekt 2.exe.config
+D:\andsmo\moja solucja\projekt 2\bin\Debug\projekt 2.exe
+D:\andsmo\moja solucja\projekt 2\bin\Debug\projekt 2.pdb
+D:\andsmo\moja solucja\projekt 2\obj\Debug\projekt 2.exe
+D:\andsmo\moja solucja\projekt 2\obj\Debug\projekt 2.pdb
+D:\andsmo\moja solucja\projekt 2\obj\Debug\projekt 2.csprojResolveAssemblyReference.cache
